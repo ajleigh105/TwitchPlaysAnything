@@ -1,0 +1,11 @@
+up:up_arrow:.5
+down:down_arrow:.5
+right:right_arrow:.5
+left:left_arrow:.5
+tup:up_arrow:.1
+tleft:left_arrow:.1
+tdown:down_arrow:.1
+tright:right_arrow:.1
+z:z:.1
+x:x:.1
+c:c:.1

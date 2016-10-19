@@ -1,0 +1,4 @@
+up:up_arrow:.5
+down:down_arrow:.5
+right:right_arrow:.5
+left:left_arrow:.5

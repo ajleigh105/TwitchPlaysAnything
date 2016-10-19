@@ -1,0 +1,111 @@
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+C:\Users\ajlei_000\Desktop\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+F:\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+F:\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+F:\TwitchPlaysAnything\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+F:\TwitchPlaysAnything\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+F:\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+F:\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+F:\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+F:\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+F:\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+F:\TwitchPlaysAnything\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache
+F:\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+F:\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+F:\Project_Sans\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+F:\Project_Sans\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+F:\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+F:\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+F:\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+F:\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+F:\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+F:\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+C:\Users\Austin\Desktop\Project_Sans COPY\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.About.resources
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+C:\Users\Austin\Desktop\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.About.resources
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Help.resources
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+E:\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.About.resources
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Help.resources
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+E:\GitHub\TPA\Project_Sans COPY The good one\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.About.resources
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Help.resources
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.About.resources
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Help.resources
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.exe
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.pdb
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.About.resources
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Help.resources
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Properties.Resources.resources
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.SettingsForm.resources
+C:\Users\Austin\Downloads\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TwitchPlaysAnything-3bece9e7f5ebee12c7b86b7c092d4df4bd3d1661\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csproj.GenerateResource.Cache

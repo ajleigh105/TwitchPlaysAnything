@@ -40,7 +40,6 @@ namespace TwitchPlaysAnything
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.settingsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ChatBox = new System.Windows.Forms.RichTextBox();
             this.ChatLabel = new System.Windows.Forms.Label();
@@ -134,7 +133,6 @@ namespace TwitchPlaysAnything
             // 
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.settingsToolStripMenuItem,
-            this.aboutToolStripMenuItem,
             this.helpToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
@@ -143,20 +141,14 @@ namespace TwitchPlaysAnything
             // settingsToolStripMenuItem
             // 
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
-            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
+            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.settingsToolStripMenuItem.Text = "Settings";
             this.settingsToolStripMenuItem.Click += new System.EventHandler(this.settingsToolStripMenuItem_Click);
-            // 
-            // aboutToolStripMenuItem
-            // 
-            this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
-            this.aboutToolStripMenuItem.Text = "About";
             // 
             // helpToolStripMenuItem
             // 
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.helpToolStripMenuItem.Text = "Help";
             // 
             // ChatBox
@@ -168,6 +160,7 @@ namespace TwitchPlaysAnything
             this.ChatBox.Location = new System.Drawing.Point(337, 56);
             this.ChatBox.Margin = new System.Windows.Forms.Padding(2);
             this.ChatBox.Name = "ChatBox";
+            this.ChatBox.ReadOnly = true;
             this.ChatBox.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Vertical;
             this.ChatBox.Size = new System.Drawing.Size(234, 216);
             this.ChatBox.TabIndex = 7;
@@ -229,7 +222,6 @@ namespace TwitchPlaysAnything
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem settingsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
         private System.Windows.Forms.Label ChatLabel;
         public System.Windows.Forms.RichTextBox ChatBox;

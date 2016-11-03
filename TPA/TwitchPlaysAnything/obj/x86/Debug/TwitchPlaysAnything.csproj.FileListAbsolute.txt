@@ -88,7 +88,6 @@ E:\TwitchPlaysAnything\Project_Sans\TwitchPlaysAnything\obj\x86\Debug\TwitchPlay
 E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.exe
 E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\bin\Debug\TwitchPlaysAnything.pdb
 E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.csprojResolveAssemblyReference.cache
-E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.About.resources
 E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.ControlSchemeForm.resources
 E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.DashBoard.resources
 E:\TwitchPlaysAnything\TPA\TwitchPlaysAnything\obj\x86\Debug\TwitchPlaysAnything.Help.resources

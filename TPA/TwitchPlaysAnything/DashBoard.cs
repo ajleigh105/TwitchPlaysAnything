@@ -151,5 +151,12 @@ namespace TwitchPlaysAnything
         {
             RecconectTimer(sender, e);
         }
+
+        private void helpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Help HelpBox = new Help();
+            HelpBox.ShowDialog();
+        }
+
     }
 }

@@ -117,4 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="HelpText.Text" xml:space="preserve">
+    <value>You will need a twitch account and an OAUTH key associated with that accouint. 
+
+Enter these credentials into the settings page under File&gt;Settings. 
+Your key can be generated from the address in the link on that page.
+
+Create a new profile for the game you want to play on your stream and enter the command, what key that command will simulate, 
+and how long it will be held down for. Once you have a completed profile, click okay.
+
+When the Run Button is clicked, the selected profile will be used and start recieving information from Twitch chat for your channel. Make sure
+your game window is the active window. May not work with all games.</value>
+  </data>
 </root>

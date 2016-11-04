@@ -44,6 +44,7 @@ namespace TwitchPlaysAnything
             this.ChatBox = new System.Windows.Forms.RichTextBox();
             this.ChatLabel = new System.Windows.Forms.Label();
             this.ReconnectTimer = new System.Windows.Forms.Timer(this.components);
+            this.BuildLabel = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -141,15 +142,16 @@ namespace TwitchPlaysAnything
             // settingsToolStripMenuItem
             // 
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
-            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.settingsToolStripMenuItem.Text = "Settings";
             this.settingsToolStripMenuItem.Click += new System.EventHandler(this.settingsToolStripMenuItem_Click);
             // 
             // helpToolStripMenuItem
             // 
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.helpToolStripMenuItem.Text = "Help";
+            this.helpToolStripMenuItem.Click += new System.EventHandler(this.helpToolStripMenuItem_Click);
             // 
             // ChatBox
             // 
@@ -184,11 +186,22 @@ namespace TwitchPlaysAnything
             this.ReconnectTimer.Interval = 400;
             this.ReconnectTimer.Tick += new System.EventHandler(this.ReconnectTimer_Tick);
             // 
+            // BuildLabel
+            // 
+            this.BuildLabel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.BuildLabel.AutoSize = true;
+            this.BuildLabel.Location = new System.Drawing.Point(498, 325);
+            this.BuildLabel.Name = "BuildLabel";
+            this.BuildLabel.Size = new System.Drawing.Size(94, 13);
+            this.BuildLabel.TabIndex = 9;
+            this.BuildLabel.Text = "Current Build 0.0.6";
+            // 
             // DashBoard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(604, 361);
+            this.Controls.Add(this.BuildLabel);
             this.Controls.Add(this.ChatLabel);
             this.Controls.Add(this.ChatBox);
             this.Controls.Add(this.DeleteBTN);
@@ -226,5 +239,6 @@ namespace TwitchPlaysAnything
         private System.Windows.Forms.Label ChatLabel;
         public System.Windows.Forms.RichTextBox ChatBox;
         public System.Windows.Forms.Timer ReconnectTimer;
+        private System.Windows.Forms.Label BuildLabel;
     }
 }
